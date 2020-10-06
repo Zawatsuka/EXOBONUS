@@ -1,0 +1,168 @@
+.box {
+    display: flex;
+    flex-direction: raw;
+    
+
+}
+
+.color {
+    background-color: rgb(248, 203, 237);
+    border-radius: 20px;
+    margin-right: 200px;
+    margin-left: 20px;
+}
+
+img {
+    height: 280px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 6px;
+    position: relative;
+}
+
+h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 1px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+h3 {
+    margin: 5px;
+    color: rgb(116, 24, 139);
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 10px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(160, 60, 160);
+}
+
+hr {
+    margin-top: 20px;
+    width: 350px;
+}
+
+p {
+    margin: 4px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+h4 {
+    margin: 4px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 200;
+}
+
+#Elcolor {
+    background-color: rgb(160, 60, 160);
+    width: 65px;
+    color: white;
+    font-size: 13px;
+    border-radius: 2px;
+    margin-left: 20px;
+}
+
+.Elcolor2 {
+    background-color: rgb(160, 60, 160);
+    width: 85px;
+    color: white;
+    font-size: 13px;
+    border-radius: 2px;
+    margin-left: 20px;
+}
+
+#Elcolor3 {
+    background-color: rgb(160, 60, 160);
+    width: 73px;
+    color: white;
+    font-size: 13px;
+    border-radius: 2px;
+    margin-left: 20px;
+}
+
+#Elcolor4 {
+    background-color: rgb(160, 60, 160);
+    width: 120px;
+    color: white;
+    font-size: 13px;
+    border-radius: 2px;
+    margin-left: 20px;
+}
+
+#logo {
+    height: 130px;
+    width: 200px;
+    margin-left: 200px;
+}
+
+#sogood {
+    background:no-repeat url(../img/jojo-part-6.jpg);
+    background-size: 100%;
+    margin-left: 10px;
+    border-radius: 10px;
+    height: 250px;
+    width: 350px;
+}
+
+#wordchange {
+    position: absolute;
+    background-color: rgb(160, 60, 160);
+    width: 60px;
+    color: white;
+    font-size: 13px;
+    border-radius: 2px;
+    left: 33px;
+    top: 286px;
+}
+
+#sogood2 {
+    background: no-repeat url(../img/re-zero-3.jpg);
+    background-size: 100%;
+    margin-left: 10px;
+    border-radius: 10px;
+    height: 260px;
+    width: 400px;
+}
+
+#wordchange2 {
+    position: absolute;
+    background-color: rgb(160, 60, 160);
+    width: 58px;
+    color: white;
+    font-size: 13px;
+    border-radius: 2px;
+    left: 445px;
+    top: 296px;
+}
+
+#sogood3 {
+    background: no-repeat url(../img/Spider2.jpg);
+    background-size: 100%;
+    margin-left: 10px;
+    border-radius: 10px;
+    height: 260px;
+    width: 400px;
+}
+
+#wordchange3 {
+    position: absolute;
+    background-color: rgb(160, 60, 160);
+    width: 70px;
+    color: white;
+    font-size: 13px;
+    border-radius: 2px;
+    left: 870px;
+    top: 296px;
+}
+
+#Sizejap {
+    height: 70px;
+    width: 90px;
+}
